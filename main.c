@@ -6,7 +6,7 @@
 #define TAILLE_MDP 6  // Taille suffisante pour le mot de passe (5 caractères + '\0')
 #define FICHIER_UTILISATEURS "utilisateurs.txt"
 
-//by dawg
+//by dawg I do what i whant
 
 typedef struct {
     int idCard;
