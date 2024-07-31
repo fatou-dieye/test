@@ -6,6 +6,8 @@
 #define TAILLE_MDP 6  // Taille suffisante pour le mot de passe (5 caractères + '\0')
 #define FICHIER_UTILISATEURS "utilisateurs.txt"
 
+//by dawg
+
 typedef struct {
     int idCard;
     char mdp[TAILLE_MDP];
